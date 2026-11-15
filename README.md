@@ -1,4 +1,4 @@
-# 🏏 IPL Dashboard – Power BI Analysis
+#  IPL Dashboard – Power BI Analysis
 
 An interactive **Power BI dashboard** that analyses Indian Premier League (IPL) match and ball-by-ball data to uncover insights on team performance, player statistics, toss impact, venue trends and season patterns.
 
@@ -6,23 +6,10 @@ An interactive **Power BI dashboard** that analyses Indian Premier League (IPL) 
 **Tools:** Power BI · Power Query · DAX
 **Dataset:** IPL Matches & Deliveries
 
----
-
-## 📌 Table of Contents
-
-- [Project Objectives](#-project-objectives)
-- [Dataset](#-dataset)
-- [Data Cleaning & Transformation](#-data-cleaning--transformation)
-- [Dashboard Overview](#-dashboard-overview)
-- [Key Insights](#-key-insights)
-- [Business Recommendations](#-business-recommendations)
-- [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
-- [Conclusion](#-conclusion)
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyse team performances across seasons
 - Identify top batsmen and bowlers
@@ -32,7 +19,7 @@ An interactive **Power BI dashboard** that analyses Indian Premier League (IPL) 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 | Dataset | Description |
 |---------|-------------|
@@ -43,7 +30,7 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 - Handled null values using **Replace Values** and filtering in Power Query
 - Corrected data types
@@ -52,7 +39,7 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## 📈 Dashboard Overview
+##  Dashboard Overview
 
 ### Dashboard 1: Player & Team Performance
 
@@ -74,7 +61,7 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Top run scorers:** SK Raina, V Kohli and RG Sharma lead the run charts, showing consistency across seasons.
 - **Boundary hitters:** G Gambhir, SK Raina and DA Warner stand out in fours; CH Gayle is prominent for sixes.
@@ -85,7 +72,7 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 1. **Use venue insights** – Identify stadiums that give teams better winning chances to plan match strategy and focus fan events and promotions.
 2. **Focus on star players** – Retain top performers, plan training and attract sponsors.
@@ -94,7 +81,7 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── IPL_Dashboard.pbix            # Power BI dashboard file
@@ -108,7 +95,7 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone or download this repository:
    ```bash
@@ -121,15 +108,15 @@ Key columns used from the Deliveries dataset include `match_id`, `batting_team`,
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 These dashboards go beyond match results and offer practical lessons for teams and businesses. From planning strategies and retaining top players to engaging fans and making smart recruitment decisions, they turn IPL data into clear actions, making cricket analysis a tool for business growth.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Abhay Chauhan**
 Feel free to connect and share feedback!
 
-⭐ If you found this project useful, consider giving it a star.
+ If you found this project useful, consider giving it a star.
